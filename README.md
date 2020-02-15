@@ -14,7 +14,7 @@ Here are the vulnerabilities identified by Solify.
 | 4 | CVE-2018-19833 | - | [link](./New%20Vulnerabilities%20Allow%20Anyone%20to%20Own%20Certain%20ERC20-Based%20Smart%20Contracts(CVE-2018-19830%2C%20CVE-2018-19831%2C%20CVE-2018-19832%2C%20CVE-2018-19833%2C%20CVE-2018-19834)/README.md) |
 | 5 | CVE-2018-19834 | - | [link](./New%20Vulnerabilities%20Allow%20Anyone%20to%20Own%20Certain%20ERC20-Based%20Smart%20Contracts(CVE-2018-19830%2C%20CVE-2018-19831%2C%20CVE-2018-19832%2C%20CVE-2018-19833%2C%20CVE-2018-19834)/README.md) |
 
-**-** - means that we cannot find the corresponding vendors to notify.
+**-** means that we cannot find the corresponding vendors to notify.
 
 ## The Vulnerability List Identified by Solify
 
